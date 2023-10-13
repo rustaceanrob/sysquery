@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/r4en4e/.vscode/extensions/continue.continue-0.0.412-darwin-arm64"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/Users/r4en4e/.vscode/extensions/continue.continue-0.0.412-darwin-arm64"
+    ]
+}
