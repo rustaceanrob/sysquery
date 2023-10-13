@@ -1,1 +1,0 @@
-/Users/r4en4e/Desktop/system_cli_tool/target/package/sysquery-0.8.0/target/debug/sysquery: /Users/r4en4e/Desktop/system_cli_tool/target/package/sysquery-0.8.0/src/lib.rs /Users/r4en4e/Desktop/system_cli_tool/target/package/sysquery-0.8.0/src/main.rs /Users/r4en4e/Desktop/system_cli_tool/target/package/sysquery-0.8.0/src/utils.rs
