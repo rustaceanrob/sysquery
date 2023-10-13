@@ -12,7 +12,7 @@ Pick the `n` largest files in your directory to be returned:
 `sysquery largefiles <NUM_FILES>`
 
 Display the `n` most expensive processes by memory: 
-`sysquery process`
+`sysquery process <NUM_PROCESSES>`
 
 Show system information: 
 `sysquery digest`
