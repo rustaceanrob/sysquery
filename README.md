@@ -11,9 +11,6 @@ Sysquery is a CLI tool to get information about your system. With the first rele
 Pick the `n` largest files in your directory to be returned:
 `sysquery largefiles <NUM_FILES>`
 
-Display the `n` most expensive processes by memory: 
-`sysquery process <NUM_PROCESSES>`
-
 Show system information: 
 `sysquery digest`
 
